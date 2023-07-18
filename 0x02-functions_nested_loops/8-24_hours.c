@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * jack_bauer - Write a function that prints the sign of a number.
  *
